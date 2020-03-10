@@ -1,5 +1,9 @@
+
+@import url(https://fonts.googleapis.com/css?family=Anton&display=swap:200,300,400,500,600,700,900);
+
 body {
     background-color: rgb(97, 211, 97);
+    font-family: 'Anton', sans-serif;
 }
 
 h1{
