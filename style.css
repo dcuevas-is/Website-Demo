@@ -1,3 +1,18 @@
 body {
-    background-color: lightgreen;
+    background-color: rgb(97, 211, 97);
+}
+
+h1{
+    color: #f5f8f5;
+}
+
+img {
+    height: 500px;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
