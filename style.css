@@ -27,3 +27,16 @@ button {
     color:#f5f8f5;
     background-color: gray;
 }
+
+button:hover{
+    transition: 0.3s;
+    color: gray;
+    background-color: #f5f8f5;
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+    color: grey;
+    font-size: medium;
+}
