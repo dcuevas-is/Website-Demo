@@ -12,6 +12,7 @@ h1{
 
 img {
     height: 500px;
+    margin-bottom: 50px;
 }
 
 #container {
@@ -19,4 +20,10 @@ img {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+button {
+    size: 60px;
+    color:#f5f8f5;
+    background-color: gray;
 }
